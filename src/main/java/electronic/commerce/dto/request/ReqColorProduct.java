@@ -6,6 +6,6 @@ import lombok.Data;
 @Data
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class ReqColorProduct {
-    private Long colorProductId;
-    private String nameColor;
+    private Long id;
+    private String name;
 }
