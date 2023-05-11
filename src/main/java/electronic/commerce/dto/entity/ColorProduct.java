@@ -1,4 +1,4 @@
-package electronic.commerce.dto.response.commerce.entity;
+package electronic.commerce.dto.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -14,12 +14,12 @@ import java.util.Date;
 @Entity
 @Data
 @DynamicInsert
-public class SizeProduct {
+public class ColorProduct {
     @Id
     @GeneratedValue
     private Long Id;
     @Column(unique = true)
-    private String productSize;
+    private String nameColor;
     @CreationTimestamp
     private Date dataDate;
     @ColumnDefault(value = "1")

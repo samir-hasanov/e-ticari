@@ -1,8 +1,8 @@
 package electronic.commerce.service;
 
+import electronic.commerce.dto.entity.*;
 import electronic.commerce.dto.request.*;
 import electronic.commerce.dto.response.*;
-import electronic.commerce.entity.*;
 import electronic.commerce.exception.EnumCode;
 import electronic.commerce.exception.ExceptionConstants;
 import electronic.commerce.exception.MyException;

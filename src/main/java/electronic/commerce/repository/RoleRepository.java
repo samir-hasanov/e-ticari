@@ -1,6 +1,6 @@
 package electronic.commerce.repository;
 
-import electronic.commerce.entity.Role;
+import electronic.commerce.dto.entity.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

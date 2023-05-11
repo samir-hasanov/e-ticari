@@ -1,4 +1,4 @@
-package electronic.commerce.dto.response.commerce.entity;
+package electronic.commerce.dto.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

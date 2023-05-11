@@ -5,7 +5,7 @@ import electronic.commerce.dto.response.RespProductType;
 import electronic.commerce.dto.response.RespStatus;
 import electronic.commerce.dto.response.RespStatusList;
 import electronic.commerce.dto.response.Response;
-import electronic.commerce.entity.ProductType;
+import electronic.commerce.dto.entity.ProductType;
 import electronic.commerce.exception.EnumCode;
 import electronic.commerce.exception.ExceptionConstants;
 import electronic.commerce.exception.MyException;

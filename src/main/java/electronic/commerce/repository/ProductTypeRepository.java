@@ -1,6 +1,6 @@
 package electronic.commerce.repository;
 
-import electronic.commerce.entity.ProductType;
+import electronic.commerce.dto.entity.ProductType;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
